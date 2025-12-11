@@ -21,9 +21,6 @@
 * CSS3 (Flexbox/Grid 布局 + 动画特效)
 * Vanilla JavaScript (原生 JS，无第三方依赖)
 
-## 📸 游戏截图
-
-*(如果你以后想放截图，可以把图片拖进仓库，然后在这里贴图，没有可忽略)*
 
 ---
 *Created by Henry. 仅供个人娱乐与技术学习使用。*
