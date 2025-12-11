@@ -4,9 +4,8 @@
 
 ## 🎮 点击直接玩
 
-**👉 [点击这里开始游戏](https://你的用户名.github.io/你的仓库名/)**
+**👉 [点击这里开始游戏](https://henry3344.github.io/Doudizhu/)**
 
-*(请将上面的链接替换为你 GitHub Pages 生成的实际链接)*
 
 ## ✨ 核心亮点
 
